@@ -1,0 +1,7 @@
+/home/user/.sbt/0.13/plugins/plugins.sbt
+addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "4.0.0")
+
+En la carpeta del proyecto ejecutar:
+$sbt eclipse
+
+y el classpath se actualizará con las dependencias de los *.jar, indicados en el build.sbt
