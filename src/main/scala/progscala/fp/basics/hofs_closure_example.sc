@@ -1,3 +1,4 @@
+// src/main/scala/progscala/fp/basics/hofs_closure_example.sc
 
 object hofs_closure_example {
   var factor = 2;
